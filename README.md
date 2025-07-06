@@ -310,22 +310,7 @@ We engineered a **comprehensive, cloud-based billing & invoicing platform** that
 - **Mobile-First**: Responsive design working seamlessly across devices
 - **User-Centric**: Intuitive navigation reducing learning curve
 
-#### **📱 Screenshots Instructions**
-> **Note**: Replace the placeholder image paths above with actual screenshot files:
-> - `dashboard-screenshot.png` - Main dashboard view
-> - `invoice-creation-screenshot.png` - Invoice creation process
-> - `payment-processing-screenshot.png` - Payment gateway interface
-> - `reporting-dashboard-screenshot.png` - Analytics and reporting view
-> - `client-management-screenshot.png` - Client management interface
-> - `mobile-interface-screenshot.png` - Mobile responsive design
->
-> **Recommended Screenshot Specifications:**
-> - **Resolution**: 1920x1080 (Full HD) for desktop views
-> - **Format**: PNG for crisp quality
-> - **Mobile**: 390x844 (iPhone 12 Pro dimensions)
-> - **Compression**: Optimize for web without losing quality
 
----
 
 ## 🌟 **Client Testimonial**
 
