@@ -241,7 +241,7 @@ We engineered a **comprehensive, cloud-based billing & invoicing platform** that
 ### **📸 Platform Screenshots**
 
 #### **🏠 Dashboard Overview**
-![Dashboard Screenshot](screenshots/dash.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/THE-GRIT-AGENCIES-KE/kdsolutions-billing/main/screenshots/Dash.PNG)
 *Real-time revenue metrics and charts with quick access to recent invoices and payments*
 
 **Key Features Shown:**
@@ -251,7 +251,7 @@ We engineered a **comprehensive, cloud-based billing & invoicing platform** that
 - Client activity feed and notifications
 
 #### **🧾 Invoice Creation**
-![Invoice Creation Screenshot](screenshots/invoice-creation-screenshot.png)
+![Invoice Creation Screenshot](https://raw.githubusercontent.com/THE-GRIT-AGENCIES-KE/kdsolutions-billing/main/screenshots/inv.PNG)
 *Professional invoice builder with step-by-step process and live preview*
 
 **Key Features Shown:**
@@ -261,7 +261,7 @@ We engineered a **comprehensive, cloud-based billing & invoicing platform** that
 - Multiple payment option configuration
 
 #### **💳 Payment Processing**
-![Payment Processing Screenshot](path/to/payment-processing-screenshot.png)
+![Payment Processing Screenshot](https://raw.githubusercontent.com/THE-GRIT-AGENCIES-KE/kdsolutions-billing/main/screenshots/pay.PNG)
 *Seamless M-Pesa STK push integration with real-time confirmation*
 
 **Key Features Shown:**
@@ -270,18 +270,18 @@ We engineered a **comprehensive, cloud-based billing & invoicing platform** that
 - Real-time payment confirmation
 - Automated receipt generation
 
-#### **📊 Reporting Dashboard**
-![Reporting Dashboard Screenshot](path/to/reporting-dashboard-screenshot.png)
-*Interactive charts and analytics showing business performance trends*
+#### **📊 Product Management**
+![Product Management Screenshot](https://raw.githubusercontent.com/THE-GRIT-AGENCIES-KE/kdsolutions-billing/main/screenshots/prod.PNG)
+*Comprehensive product catalog with pricing and inventory management*
 
 **Key Features Shown:**
-- Interactive charts showing revenue trends
-- Client performance analytics
-- Payment method breakdowns
-- Monthly/quarterly financial summaries
+- Product catalog with custom pricing
+- Service packages and descriptions
+- Inventory tracking and management
+- Category organization and search
 
 #### **👤 Client Management**
-![Client Management Screenshot](screenshots/client-management-screenshot.png)
+![Client Management Screenshot](https://raw.githubusercontent.com/THE-GRIT-AGENCIES-KE/kdsolutions-billing/main/screenshots/Capture1.PNG)
 *Comprehensive client profiles with complete interaction history*
 
 **Key Features Shown:**
@@ -290,15 +290,15 @@ We engineered a **comprehensive, cloud-based billing & invoicing platform** that
 - Payment patterns and preferences
 - Automated follow-up scheduling
 
-#### **📱 Mobile Interface**
-![Mobile Interface Screenshot](screenshots/mobile-interface-screenshot.png)
-*Responsive mobile design ensuring perfect functionality on all devices*
+#### **🌙 Dark Mode Interface**
+![Dark Mode Screenshot](https://raw.githubusercontent.com/THE-GRIT-AGENCIES-KE/kdsolutions-billing/main/screenshots/dark.PNG)
+*Professional dark mode interface for comfortable extended usage*
 
 **Key Features Shown:**
-- Touch-optimized interface for mobile devices
-- Swipe gestures for quick navigation
-- Mobile-friendly invoice creation
-- Real-time notifications on mobile
+- Eye-friendly dark mode theme
+- Consistent branding across themes
+- Improved readability in low-light conditions
+- User preference settings
 
 ---
 
@@ -331,7 +331,7 @@ We engineered a **comprehensive, cloud-based billing & invoicing platform** that
 
 > *"The Grit Agencies completely transformed our billing operations in just 3 weeks. What used to take our team 2 hours per invoice now takes 5 minutes. Our payment collection rate has increased from 65% to 94%, and we have complete visibility into our financial operations for the first time. This platform has been a game-changer for our business growth."*
 >
-> **— Dorcas Musonik, CEO, KD Solutions**
+> **— Dorcas Mosonik, CEO, KD Solutions**
 
 ---
 
@@ -388,6 +388,7 @@ This comprehensive billing platform is now available as a **customizable solutio
 | Shops, eCommerce | Property Management | SACCOs, MFIs | Delivery, Transport |
 
 </div>
+
 
 
 ### **🎯 What's Included**
