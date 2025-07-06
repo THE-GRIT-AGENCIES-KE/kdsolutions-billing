@@ -241,7 +241,7 @@ We engineered a **comprehensive, cloud-based billing & invoicing platform** that
 ### **📸 Platform Screenshots**
 
 #### **🏠 Dashboard Overview**
-![Dashboard Screenshot](path/to/dashboard-screenshot.png)
+![Dashboard Screenshot](screenshots/dash.png)
 *Real-time revenue metrics and charts with quick access to recent invoices and payments*
 
 **Key Features Shown:**
@@ -251,7 +251,7 @@ We engineered a **comprehensive, cloud-based billing & invoicing platform** that
 - Client activity feed and notifications
 
 #### **🧾 Invoice Creation**
-![Invoice Creation Screenshot](path/to/invoice-creation-screenshot.png)
+![Invoice Creation Screenshot](screenshots/invoice-creation-screenshot.png)
 *Professional invoice builder with step-by-step process and live preview*
 
 **Key Features Shown:**
@@ -281,7 +281,7 @@ We engineered a **comprehensive, cloud-based billing & invoicing platform** that
 - Monthly/quarterly financial summaries
 
 #### **👤 Client Management**
-![Client Management Screenshot](path/to/client-management-screenshot.png)
+![Client Management Screenshot](screenshots/client-management-screenshot.png)
 *Comprehensive client profiles with complete interaction history*
 
 **Key Features Shown:**
@@ -291,7 +291,7 @@ We engineered a **comprehensive, cloud-based billing & invoicing platform** that
 - Automated follow-up scheduling
 
 #### **📱 Mobile Interface**
-![Mobile Interface Screenshot](path/to/mobile-interface-screenshot.png)
+![Mobile Interface Screenshot](screenshots/mobile-interface-screenshot.png)
 *Responsive mobile design ensuring perfect functionality on all devices*
 
 **Key Features Shown:**
