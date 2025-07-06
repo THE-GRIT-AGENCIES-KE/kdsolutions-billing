@@ -241,7 +241,7 @@ We engineered a **comprehensive, cloud-based billing & invoicing platform** that
 ### **📸 Platform Screenshots**
 
 #### **🏠 Dashboard Overview**
-![Dashboard Screenshot](https://raw.githubusercontent.com/THE-GRIT-AGENCIES-KE/kdsolutions-billing/main/screenshots/Dash.PNG)
+![Dashboard Screenshot](https://raw.githubusercontent.com/THE-GRIT-AGENCIES-KE/kdsolutions-billing/main/screenshots/main.PNG)
 *Real-time revenue metrics and charts with quick access to recent invoices and payments*
 
 **Key Features Shown:**
